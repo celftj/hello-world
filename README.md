@@ -1,2 +1,5 @@
 # hello-world
-begin
+
+I am just learing how to use github
+
+begin 
